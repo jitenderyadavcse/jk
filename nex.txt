@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 4A5E-06EF
+
+ Directory of C:\Users\JYADAV\Desktop\GIT_PROJECT
+
+05/27/2021  09:18 PM    <DIR>          .
+05/27/2021  09:18 PM    <DIR>          ..
+05/27/2021  09:18 PM                 0 nex.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  23,121,928,192 bytes free
